@@ -1,1 +1,8 @@
-
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "Tether USD Stablecoin",
+  "website": "https://tether.to",
+  "image": ""
+}
