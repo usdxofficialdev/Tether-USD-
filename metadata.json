@@ -1,7 +1,7 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "decimals": 18,
-  "description": "Tether USD Stablecoin",
-  "website": "https://tether.to",
-  "image": "https://raw.githubusercontent.com/usdxofficialdev/Tether-USD/main/logo.png"
+  "decimals": 6,
+  "description": "Tether USD on TRON network",
+  "image": "https://raw.githubusercontent.com/usdxofficialdev/Tether-USD-/main/logo.png"
+}
